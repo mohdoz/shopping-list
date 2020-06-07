@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_501139_shopping_store</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Store Form Screen">2edf6f7cdb955010e195cd3f2996194f</embedded_screen>
+        <item_view display_value="Store List Screen Item View">d6df2b78db955010e195cd3f299619e4</item_view>
+        <name>Store master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-07 11:51:27</sys_created_on>
+        <sys_id>6adf6f7cdb955010e195cd3f29961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store master_item</sys_name>
+        <sys_package display_value="Shopping List" source="x_501139_shopping">55f86bf4db955010e195cd3f2996190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">55f86bf4db955010e195cd3f2996190b</sys_scope>
+        <sys_update_name>sys_sg_master_item_6adf6f7cdb955010e195cd3f29961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-07 11:51:27</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>
